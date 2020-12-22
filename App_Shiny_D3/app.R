@@ -1,6 +1,5 @@
 library(shiny)
 library(r2d3)
-library(gitignore)
 
 ui <- fluidPage(
     inputPanel(
